@@ -82,7 +82,7 @@
     "@netlify/plugin-nextjs": "3.3.0",
     "@next/bundle-analyzer": "10.0.5",
     "@now/node": "1.8.5",
-    "@testing-library/jest-dom": "5.11.9",
+    "@testing-library/jest-dom": "5.15.1",
     "@testing-library/react": "11.2.3",
     "@types/d3-array": "2.9.0",
     "@types/jest": "26.0.19",
